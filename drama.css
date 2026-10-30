@@ -1,0 +1,23 @@
+html::before{
+    content:"";
+    position:fixed;
+    inset:0;
+    background-image:url("Screenshot 2026-10-18 130109.png");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    filter:brightness(40%);
+    z-index:-1;
+
+}
+html{
+    color: aliceblue;
+}
+a{
+    color:aliceblue;
+    
+    
+}
+a:hover{
+    color:blue;
+}
